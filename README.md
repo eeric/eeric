@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/eeric/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eeric&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/eeric/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eeric&repo=convoychat" />
 </a>
 
