@@ -1,5 +1,5 @@
 🏆 GitHub Profile Trophy</p>
-![trophy](https://github-profile-trophy.vercel.app/?username=eeric&row=1&theme=discord)
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=eeric&row=1&theme=discord" /> </div>
 ![image](https://github.com/eeric/Pedestrian-detection-paper-list/blob/main/Visualize/github-snake.svg)
 
 
