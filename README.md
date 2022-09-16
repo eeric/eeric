@@ -2,7 +2,7 @@
   <h2 align="center">I'm eeric!</h2>
 </p>
 <p align="center">
-  Senior AI Algorithm Engineer. Research in machine learning and deep learning
+  Research in machine learning and deep learning
 </p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=eeric">
 
